@@ -1,2 +1,2 @@
 # project-euler
-Various snippets to solve Project Euler problems.
+Various snippets to solve [Project Euler](https://projecteuler.net/) problems.
